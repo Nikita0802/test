@@ -1,0 +1,19 @@
+.icon-telegramm a{
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+}
+.icon-telegramm {
+    position: fixed;
+    right: 100px;
+    bottom: 200px;
+}
+.icon-telegramm__img{
+    min-height: 55px;
+    min-width: 65px;
+    margin-left: 10px;
+}
+
+.icon-telegramm__titel {
+    font-size: 20px;
+}
