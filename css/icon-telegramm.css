@@ -17,3 +17,7 @@
 .icon-telegramm__titel {
     font-size: 20px;
 }
+
+@media screen and (max-width: 1024px) {
+    .icon-telegramm__titel { display: none;}
+}
